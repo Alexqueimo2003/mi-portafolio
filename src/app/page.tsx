@@ -16,20 +16,20 @@ export default function Home() {
   const projects = [
     {
       id: "proyecto-uno",
-      title: "Plataforma E-Commerce",
+      title: "Clon Pagina Star Link",
       description:
-        "Tienda virtual moderna con catálogo dinámico, filtrado reactivo de productos, carrito persistente y checkout interactivo.",
-      tech: ["Next.js", "React", "Tailwind CSS", "JavaScript"],
+        "Página elaborada con HTML  y Css puro",
+      tech: ["HTML", "CSS", "Github"],
       demoUrl: "https://alexqueimo2003.github.io/proyecto-uno",
       color: "from-blue-600/20 to-cyan-500/20",
     },
     {
       id: "proyecto-dos",
-      title: "Dashboard de Analíticas",
+      title: "Sistema de autenticacion",
       description:
-        "Panel interactivo para visualización de métricas de rendimiento en tiempo real, tablas paginadas y administración de usuarios.",
-      tech: ["React", "Node.js", "CSS", "JavaScript"],
-      demoUrl: "https://alexqueimo.github.io/proyecto-dos",
+        "Sistema para validar usuarios y permitir ingresar a una pagina central con los personajes de Rick y Morty,ademas de Crearse como usuario ",
+      tech: ["HTML", "Tailwind CSS", "Github", "JavaScript"],
+      demoUrl: "https://alexqueimo2003.github.io/proyecto-dos",
       color: "from-violet-600/20 to-purple-500/20",
     },
     {
