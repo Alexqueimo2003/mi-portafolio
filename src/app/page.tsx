@@ -20,7 +20,7 @@ export default function Home() {
       description:
         "Tienda virtual moderna con catálogo dinámico, filtrado reactivo de productos, carrito persistente y checkout interactivo.",
       tech: ["Next.js", "React", "Tailwind CSS", "JavaScript"],
-      demoUrl: "https://alexqueimo.github.io/proyecto-uno",
+      demoUrl: "https://alexqueimo2003.github.io/proyecto-uno",
       color: "from-blue-600/20 to-cyan-500/20",
     },
     {
