@@ -79,7 +79,7 @@ export default function Home() {
 
       <main className="mx-auto flex max-w-6xl flex-col gap-24 px-6 py-12 md:py-16">
         {/* 2. INTRO SOBRE MI PERSONA */}
-        <p className="text-lg leading-relaxed text-slate-600 dark:text-slate-400">
+        <p className="text-lg leading-relaxed text-slate-600 dark:text-slate-400 text-justify">
           Me dedico a crear soluciones web a la medida. Combino el poder y la flexibilidad del desarrollo a código puro con JavaScript y Tailwind CSS para proyectos dinámicos, junto con la velocidad de despliegue que ofrece WordPress para sitios autogestionables y corporativos. Me enfoco en entregar páginas web atractivas, optimizadas para motores de búsqueda (SEO) y completamente responsivas. Busco integrarme a equipos de desarrollo donde pueda seguir expandiendo mis conocimientos técnicos y resolver problemas reales a través del código.
         </p>
         <section id="intro" className="flex flex-col items-start gap-6 pt-4">
@@ -94,7 +94,7 @@ export default function Home() {
           <h1 className="text-4xl font-extrabold tracking-tight text-slate-900 sm:text-5xl lg:text-6xl dark:text-white">
             Hola, soy{" "}
             <span className="bg-gradient-to-r from-emerald-600 to-teal-500 bg-clip-text text-transparent dark:from-emerald-400 dark:to-teal-300">
-              Alex Queimo
+              Alexander Paraqueimo Garcia
             </span>
           </h1>
 
@@ -102,7 +102,7 @@ export default function Home() {
             Programador Web Full-Stack
           </p>
 
-          <p className="max-w-3xl text-base leading-relaxed text-slate-600 sm:text-lg dark:text-zinc-400">
+          <p className="max-w-3xl text-base leading-relaxed text-slate-600 sm:text-lg dark:text-zinc-400 text-justify">
             Desarrollador apasionado por crear experiencias digitales intuitivas, dinámicas y de alto rendimiento.
             Especializado en la arquitectura e implementación de aplicaciones web modernas, abarcando desde interfaces
             de usuario reactivas y accesibles en el frontend hasta arquitecturas de datos y lógica sólida en el backend.
